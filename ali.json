@@ -16,14 +16,14 @@
 {
     "id": "09e7e793641a1590",
     "username": "admin",
-    "password": "sajid",
+    "password": "sajid1",
     "expiresAt": "2025-12-31",
     "allowOffline": true
   },
   {
     "id": "09e7e793641a1590",
     "username": "admin",
-    "password": "sajid",
+    "password": "sajid1",
     "expiresAt": "2025-11-30",
     "allowOffline": false
   }
