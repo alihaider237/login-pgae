@@ -26,5 +26,19 @@
     "password": "sajid1",
     "expiresAt": "2025-11-30",
     "allowOffline": false
+  },
+  {
+    "id": "4e631a8b7648b69b",
+    "username": "admin",
+    "password": "admin123",
+    "expiresAt": "2025-12-31",
+    "allowOffline": true
+  },
+  {
+    "id": "4e631a8b7648b69b",
+    "username": "admin",
+    "password": "admin123",
+    "expiresAt": "2025-11-30",
+    "allowOffline": false
   }
 ]
