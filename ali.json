@@ -14,16 +14,16 @@
     "allowOffline": false
   },
 {
-    "id": "4e631a8b7648b69b",
+    "id": "d78da17c5e56b96c",
     "username": "admin",
-    "password": "admin123",
+    "password": "mirza",
     "expiresAt": "2025-12-31",
     "allowOffline": true
   },
   {
-    "id": "4e631a8b7648b69b",
+    "id": "d78da17c5e56b96c",
     "username": "admin",
-    "password": "admin123",
+    "password": "mirza",
     "expiresAt": "2025-11-30",
     "allowOffline": false
   },
